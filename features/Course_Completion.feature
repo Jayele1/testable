@@ -1,4 +1,4 @@
-Feature: Course Completeion Indicator
+Feature: Course Completion Indicator
 
 Background:
 	Given I am a new user on Teachable
