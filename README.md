@@ -1,4 +1,4 @@
-# Takehome for QA engineer position.
+# Takehome 
 
 *IMPORTANT: Fork this repository!* 
 
